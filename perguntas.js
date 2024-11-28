@@ -16,8 +16,4 @@ criaCartao(
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
-criaCartao(
-    '',
-    '',
-    ''
-)
+
